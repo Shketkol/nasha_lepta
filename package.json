@@ -1,6 +1,6 @@
 {
-  "name": "nashalepta",
-  "version": "0.0.0",
+  "name": "test",
+  "version": "0.0.1",
   "dependencies": {},
   "repository": {},
   "devDependencies": {
@@ -27,6 +27,7 @@
     "grunt-usemin": "^3.0.0",
     "grunt-wiredep": "^2.0.0",
     "jshint-stylish": "^1.0.0",
+    "karma": "^0.13.21",
     "karma-jasmine": "^0.3.6",
     "karma-phantomjs-launcher": "^0.2.0",
     "load-grunt-tasks": "^3.1.0",
@@ -37,5 +38,18 @@
   },
   "scripts": {
     "test": "grunt test"
-  }
+  },
+  "description": "Project is hosted here - \r ##http://sergiishapoval.github.io/nasha_lepta\r OR \r ##http://nasha-lepta.com.ua/",
+  "main": "package.json",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "bower",
+    "grunt",
+    "jquery",
+    "bootstrap"
+  ],
+  "author": "I'am",
+  "license": "ISC"
 }
